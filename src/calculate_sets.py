@@ -57,6 +57,7 @@ class SetProfit:
             return None
         return (int(time.time()) - self.set_price_time)
 
+
     @property
     def component_ages(self) -> dict[str, int | None]:
         """Each component's individual age in seconds, keyed by name."""

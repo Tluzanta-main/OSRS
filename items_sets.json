@@ -1,0 +1,138 @@
+{
+  "Moons of Peril": {
+    "Blood moon": {
+      "id": 31136,
+      "components": {
+        "Blood moon chestplate": 29022,
+        "Blood moon helm": 29028,
+        "Blood moon tassets": 29025,
+        "Dual macuahuitl": 28997
+      }
+    },
+    "Blue moon": {
+      "id": 31139,
+      "components": {
+        "Blue moon chestplate": 29013,
+        "Blue moon helm": 29019,
+        "Blue moon spear": 28988,
+        "Blue moon tassets": 29016
+      }
+    },
+    "Eclipse moon": {
+      "id": 31142,
+      "components": {
+        "Eclipse moon chestplate": 29004,
+        "Eclipse moon helm": 29010,
+        "Eclipse moon tassets": 29007,
+        "Eclipse atlatl": 29000
+      }
+    }
+  },
+  "Barrows": {
+    "Ahrim": {
+      "id": 12881,
+      "components": {
+        "Ahrim's hood": 4708,
+        "Ahrim's robeskirt": 4714,
+        "Ahrim's robetop": 4712,
+        "Ahrim's staff": 4710
+      }
+    },
+    "Dharok": {
+      "id": 12877,
+      "components": {
+        "Dharok's greataxe": 4718,
+        "Dharok's helm": 4716,
+        "Dharok's platebody": 4720,
+        "Dharok's platelegs": 4722
+      }
+    },
+    "Guthan": {
+      "id": 12873,
+      "components": {
+        "Guthan's chainskirt": 4730,
+        "Guthan's helm": 4724,
+        "Guthan's platebody": 4728,
+        "Guthan's warspear": 4726
+      }
+    },
+    "Karil": {
+      "id": 12883,
+      "components": {
+        "Karil's coif": 4732,
+        "Karil's crossbow": 4734,
+        "Karil's leatherskirt": 4738,
+        "Karil's leathertop": 4736
+      }
+    },
+    "Torag": {
+      "id": 12879,
+      "components": {
+        "Torag's hammers": 4747,
+        "Torag's helm": 4745,
+        "Torag's platebody": 4749,
+        "Torag's platelegs": 4751
+      }
+    },
+    "Verac": {
+      "id": 12875,
+      "components": {
+        "Verac's brassard": 4757,
+        "Verac's flail": 4755,
+        "Verac's helm": 4753,
+        "Verac's plateskirt": 4759
+      }
+    }
+  },
+  "Justiciar": {
+    "Justiciar": {
+      "id": 22438,
+      "components": {
+        "Justiciar chestguard": 22327,
+        "Justiciar faceguard": 22326,
+        "Justiciar legguards": 22328
+      }
+    }
+  },
+  "Dagon'hai": {
+    "Dagon'hai": {
+      "id": 24333,
+      "components": {
+        "Dagon'hai hat": 24288,
+        "Dagon'hai robe bottom": 24294,
+        "Dagon'hai robe top": 24291
+      }
+    }
+  },
+  "Sunfire fanatic": {
+    "Sunfire fanatic": {
+      "id": 29424,
+      "components": {
+        "Sunfire fanatic chausses": 28939,
+        "Sunfire fanatic cuirass": 28936,
+        "Sunfire fanatic helm": 28933
+      }
+    }
+  },
+  "Virtus": {
+    "Virtus": {
+      "id": 31148,
+      "components": {
+        "Virtus mask": 26241,
+        "Virtus robe bottom": 26245,
+        "Virtus robe top": 26243
+      }
+    }
+  },
+  "Hueycoatl": {
+    "Hueycoatl": {
+      "id": 31169,
+      "components": {
+        "Hueycoatl hide body": 30076,
+        "Hueycoatl hide chaps": 30079,
+        "Hueycoatl hide coif": 30073,
+        "Hueycoatl hide vambraces": 30082
+      }
+    }
+  }
+}
