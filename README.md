@@ -84,5 +84,6 @@ as the [Wiki's API guidelines](https://oldschool.runescape.wiki/w/RuneScape:Real
 
 ## How I built this
 
-A learning project. I used Claude Code as a pair programmer for planning, code review
-and test scaffolding; I can walk through every design decision.
+A learning project. I wrote the app itself; Claude Code helped me add the test suite,
+CI workflow and this README, and I reviewed and approved every change. I can walk
+through any part of it, including why the tests are written the way they are.
