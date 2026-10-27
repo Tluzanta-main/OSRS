@@ -1,0 +1,7 @@
+# Runtime dependencies (Python 3.12)
+requests==2.34.2
+textual==8.2.8
+rich==15.0.0
+
+# Testing
+pytest==9.1.1
