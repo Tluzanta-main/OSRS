@@ -82,6 +82,24 @@ items_sets.json      the sets and their component item IDs
 The app identifies itself with a custom User-Agent and refreshes every 30 seconds, the same rate the Wiki updates its data,
 as the [Wiki's API guidelines](https://oldschool.runescape.wiki/w/RuneScape:Real-time_Prices) ask.
 
+## How this project came about
+
+I used to do this by hand: I'd keep several tabs of the trading site open,
+refresh them, read each price, and work out the profit myself. The app came
+from three tries at automating that:
+
+1. **Excel.** A spreadsheet did the math, but I still typed in every price by hand.
+2. **Java, Gradle and Selenium.** Each run, the program went through the item pages,
+   scraped the prices off the dynamic site and printed the profit in the console.
+   It worked, but loading every page was slow, and keeping the build running was a
+   constant chore: each Chrome update meant finding Selenium versions that worked with it.
+3. **Python, an API and a TUI.** To make it faster and simpler, I looked for other
+   approaches and learned about calling an API instead of scraping web pages. Now one
+   API call returns every price, and a Textual terminal UI shows the results in
+   interactive tables instead of plain console output.
+
+From typing prices into Excel, to scraping web pages, to an API-driven dashboard.
+
 ## How I built this
 
 The idea, the profit strategy and the app code are mine. I used Claude Code to help
